@@ -1,5 +1,5 @@
 # diy-mass-deployment
- 土炮型大量部署電腦，以教室環境為例
+ 土炮型（純手工）大量部署電腦，以教室環境為例
 
 ## Requirement
 1. 您需要先[製作安裝在 VHDX 內的 Windows](./WIN2VHDX.md)
